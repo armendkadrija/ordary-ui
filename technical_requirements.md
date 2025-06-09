@@ -23,7 +23,8 @@
   - Use declarative JSX.
   
   UI and Styling
-  - Use Ant Design UI Framework.
+  - Use Shadcn UI, and Tailwind for components and styling.
+  - Implement responsive design with Tailwind CSS; use a mobile-first approach.
   
   Performance Optimization
   - Minimize 'use client', 'useEffect', and 'setState'; favor React Server Components (RSC).
